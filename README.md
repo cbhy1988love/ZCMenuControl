@@ -22,7 +22,9 @@ pod 'ZCMenuControl'
 
 ## Author
 
-1007271253@qq.com, biao.cai@transsnet.com
+zjy
+
+1007271253@qq.com, 961627191@qq.com
 
 ## License
 
