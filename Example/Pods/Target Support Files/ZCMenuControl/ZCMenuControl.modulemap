@@ -1,0 +1,6 @@
+framework module ZCMenuControl {
+  umbrella header "ZCMenuControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

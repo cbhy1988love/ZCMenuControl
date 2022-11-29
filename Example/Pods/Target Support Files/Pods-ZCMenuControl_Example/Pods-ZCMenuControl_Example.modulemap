@@ -1,0 +1,6 @@
+framework module Pods_ZCMenuControl_Example {
+  umbrella header "Pods-ZCMenuControl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

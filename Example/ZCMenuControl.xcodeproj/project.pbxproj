@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2240EFD229360709007DCFFD /* ZCScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFBF29360709007DCFFD /* ZCScrollView.m */; };
+		2240EFD329360709007DCFFD /* TYMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFC329360709007DCFFD /* TYMaskView.m */; };
+		2240EFD429360709007DCFFD /* UIWindow+CurrentVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFC529360709007DCFFD /* UIWindow+CurrentVC.m */; };
+		2240EFD529360709007DCFFD /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFC629360709007DCFFD /* UIImage+Extension.m */; };
+		2240EFD629360709007DCFFD /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 2240EFC729360709007DCFFD /* .gitkeep */; };
+		2240EFD729360709007DCFFD /* TYButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFCA29360709007DCFFD /* TYButton.m */; };
+		2240EFD829360709007DCFFD /* UIColor+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFCB29360709007DCFFD /* UIColor+Extension.m */; };
+		2240EFD929360709007DCFFD /* ZCMenuControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFCE29360709007DCFFD /* ZCMenuControl.m */; };
+		2240EFDA29360709007DCFFD /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFD029360709007DCFFD /* UIView+Extension.m */; };
+		2240EFDB29360709007DCFFD /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2240EFD129360709007DCFFD /* ReplaceMe.m */; };
 		260E151822E1E708872F3A2F /* Pods_ZCMenuControl_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4EEE87264F27ABFFC36071A /* Pods_ZCMenuControl_Tests.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
@@ -37,7 +47,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		247EDC66D1609C8BF2E48D5C /* ZCMenuControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZCMenuControl.podspec; path = ../ZCMenuControl.podspec; sourceTree = "<group>"; };
+		2240EFBF29360709007DCFFD /* ZCScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCScrollView.m; sourceTree = "<group>"; };
+		2240EFC029360709007DCFFD /* UIColor+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extension.h"; sourceTree = "<group>"; };
+		2240EFC129360709007DCFFD /* TYButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYButton.h; sourceTree = "<group>"; };
+		2240EFC229360709007DCFFD /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		2240EFC329360709007DCFFD /* TYMaskView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYMaskView.m; sourceTree = "<group>"; };
+		2240EFC429360709007DCFFD /* ZCMenuControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCMenuControl.h; sourceTree = "<group>"; };
+		2240EFC529360709007DCFFD /* UIWindow+CurrentVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+CurrentVC.m"; sourceTree = "<group>"; };
+		2240EFC629360709007DCFFD /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
+		2240EFC729360709007DCFFD /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		2240EFC829360709007DCFFD /* ZCScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCScrollView.h; sourceTree = "<group>"; };
+		2240EFC929360709007DCFFD /* TYDefineConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYDefineConst.h; sourceTree = "<group>"; };
+		2240EFCA29360709007DCFFD /* TYButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TYButton.m; sourceTree = "<group>"; };
+		2240EFCB29360709007DCFFD /* UIColor+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extension.m"; sourceTree = "<group>"; };
+		2240EFCC29360709007DCFFD /* UIImage+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extension.h"; sourceTree = "<group>"; };
+		2240EFCD29360709007DCFFD /* UIWindow+CurrentVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+CurrentVC.h"; sourceTree = "<group>"; };
+		2240EFCE29360709007DCFFD /* ZCMenuControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCMenuControl.m; sourceTree = "<group>"; };
+		2240EFCF29360709007DCFFD /* TYMaskView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TYMaskView.h; sourceTree = "<group>"; };
+		2240EFD029360709007DCFFD /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		2240EFD129360709007DCFFD /* ReplaceMe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
+		247EDC66D1609C8BF2E48D5C /* ZCMenuControl.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZCMenuControl.podspec; path = ../ZCMenuControl.podspec; sourceTree = "<group>"; };
 		2DC995871EAEF0C00FA24A11 /* Pods-ZCMenuControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZCMenuControl_Example.release.xcconfig"; path = "Target Support Files/Pods-ZCMenuControl_Example/Pods-ZCMenuControl_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ZCMenuControl_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZCMenuControl_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,8 +93,8 @@
 		893D0737C940C73DACC71691 /* Pods_ZCMenuControl_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZCMenuControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		96825D9EB661C628113C7D7F /* Pods-ZCMenuControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZCMenuControl_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ZCMenuControl_Tests/Pods-ZCMenuControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B4EEE87264F27ABFFC36071A /* Pods_ZCMenuControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZCMenuControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B53129174B292AA2F723FBC7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C9CC3756124386F7B0C57536 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B53129174B292AA2F723FBC7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C9CC3756124386F7B0C57536 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		DA606721D99303EFDD3A9A8A /* Pods-ZCMenuControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZCMenuControl_Tests.release.xcconfig"; path = "Target Support Files/Pods-ZCMenuControl_Tests/Pods-ZCMenuControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,6 +124,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2240EFBE29360709007DCFFD /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2240EFBF29360709007DCFFD /* ZCScrollView.m */,
+				2240EFC029360709007DCFFD /* UIColor+Extension.h */,
+				2240EFC129360709007DCFFD /* TYButton.h */,
+				2240EFC229360709007DCFFD /* UIView+Extension.h */,
+				2240EFC329360709007DCFFD /* TYMaskView.m */,
+				2240EFC429360709007DCFFD /* ZCMenuControl.h */,
+				2240EFC529360709007DCFFD /* UIWindow+CurrentVC.m */,
+				2240EFC629360709007DCFFD /* UIImage+Extension.m */,
+				2240EFC729360709007DCFFD /* .gitkeep */,
+				2240EFC829360709007DCFFD /* ZCScrollView.h */,
+				2240EFC929360709007DCFFD /* TYDefineConst.h */,
+				2240EFCA29360709007DCFFD /* TYButton.m */,
+				2240EFCB29360709007DCFFD /* UIColor+Extension.m */,
+				2240EFCC29360709007DCFFD /* UIImage+Extension.h */,
+				2240EFCD29360709007DCFFD /* UIWindow+CurrentVC.h */,
+				2240EFCE29360709007DCFFD /* ZCMenuControl.m */,
+				2240EFCF29360709007DCFFD /* TYMaskView.h */,
+				2240EFD029360709007DCFFD /* UIView+Extension.m */,
+				2240EFD129360709007DCFFD /* ReplaceMe.m */,
+			);
+			name = Classes;
+			path = ../../ZCMenuControl/Classes;
+			sourceTree = "<group>";
+		};
+		2240EFDC2936083B007DCFFD /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Assets;
+			path = ../../ZCMenuControl/Assets;
+			sourceTree = "<group>";
+		};
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
@@ -132,6 +196,8 @@
 		6003F593195388D20070C39A /* Example for ZCMenuControl */ = {
 			isa = PBXGroup;
 			children = (
+				2240EFDC2936083B007DCFFD /* Assets */,
+				2240EFBE29360709007DCFFD /* Classes */,
 				6003F59C195388D20070C39A /* CCAppDelegate.h */,
 				6003F59D195388D20070C39A /* CCAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -193,7 +259,6 @@
 				96825D9EB661C628113C7D7F /* Pods-ZCMenuControl_Tests.debug.xcconfig */,
 				DA606721D99303EFDD3A9A8A /* Pods-ZCMenuControl_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +324,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -280,6 +346,7 @@
 			files = (
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
+				2240EFD629360709007DCFFD /* .gitkeep in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
@@ -383,8 +450,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2240EFD329360709007DCFFD /* TYMaskView.m in Sources */,
+				2240EFD929360709007DCFFD /* ZCMenuControl.m in Sources */,
+				2240EFDA29360709007DCFFD /* UIView+Extension.m in Sources */,
+				2240EFD529360709007DCFFD /* UIImage+Extension.m in Sources */,
+				2240EFDB29360709007DCFFD /* ReplaceMe.m in Sources */,
+				2240EFD229360709007DCFFD /* ZCScrollView.m in Sources */,
+				2240EFD429360709007DCFFD /* UIWindow+CurrentVC.m in Sources */,
+				2240EFD829360709007DCFFD /* UIColor+Extension.m in Sources */,
 				6003F59E195388D20070C39A /* CCAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* CCViewController.m in Sources */,
+				2240EFD729360709007DCFFD /* TYButton.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -516,6 +592,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZCMenuControl/ZCMenuControl-Prefix.pch";
 				INFOPLIST_FILE = "ZCMenuControl/ZCMenuControl-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -532,6 +609,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZCMenuControl/ZCMenuControl-Prefix.pch";
 				INFOPLIST_FILE = "ZCMenuControl/ZCMenuControl-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";

@@ -7,12 +7,17 @@
 //
 
 #import "CCAppDelegate.h"
+#import "CCViewController.h"
 
 @implementation CCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    CCViewController *vc = [[CCViewController alloc] init];
+    [self.window setBackgroundColor:[UIColor whiteColor]];
+    self.window.rootViewController = vc;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 

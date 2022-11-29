@@ -1,9 +1,9 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '11.0'
 
 target 'ZCMenuControl_Example' do
-  pod 'ZCMenuControl', :path => '../'
+  pod 'ZCMenuControl', :git =>"https://github.com/cbhy1988love/ZCMenuControl.git"
 
   target 'ZCMenuControl_Tests' do
     inherit! :search_paths
