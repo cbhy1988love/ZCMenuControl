@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1007271253@qq.com/ZCMenuControl'
+  s.homepage         = 'https://github.com/cbhy1988love/ZCMenuControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1007271253@qq.com' => 'biao.cai@transsnet.com' }
-  s.source           = { :git => 'https://github.com/1007271253@qq.com/ZCMenuControl.git', :tag => s.version.to_s }
+  s.author           = { '1007271253@qq.com' => '961627191@qq.com' }
+  s.source           = { :git => 'https://github.com/cbhy1988love/ZCMenuControl.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'ZCMenuControl/Classes/**/*'
   
