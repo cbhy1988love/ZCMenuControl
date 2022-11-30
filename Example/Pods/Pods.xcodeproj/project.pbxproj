@@ -8,71 +8,71 @@
 
 /* Begin PBXBuildFile section */
 		0E3A163D13284670B892E05B8B503956 /* Pods-ZCMenuControl_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FDD35210B213BC2FDAF7C709A486FF9 /* Pods-ZCMenuControl_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		16E58B1C1994B69B6D59434FFB156302 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 813C0309153C709F32C308CB7359441E /* ReplaceMe.m */; };
-		1F84FE646CD1D7BAFFB58C243277AFF8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2975A09730FD83DC0897129A11EA6585 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */; };
-		2B88C28DD20CBFA7B3AEB21A365197FE /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2CB61F6FA511CAACB43A50DC3A82E0DD /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */; };
+		16E58B1C1994B69B6D59434FFB156302 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = A0A61FE40770DE990F0987966F4C2FDD /* ReplaceMe.m */; };
+		1F84FE646CD1D7BAFFB58C243277AFF8 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B580E8909667F3B75F9685EA74A9B2B0 /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2975A09730FD83DC0897129A11EA6585 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3715375D208812233C165B7E3B8F8E77 /* SwiftSupport.swift */; };
+		2B88C28DD20CBFA7B3AEB21A365197FE /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 506F560C310836F289E42906BD835974 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2CB61F6FA511CAACB43A50DC3A82E0DD /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = E0A54C707384E2C0CD4277F1EF15BA1E /* UIImage+Snapshot.m */; };
 		2ECCAC52EF4C74E1032E0BC646BBE5B9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
-		30D475DF57C0C682A723231E7BCA0D14 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */; };
-		353E18A33E052593499C862F625C6485 /* UIColor+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E689C7DAF1C0D0523CAFC90C42A231B /* UIColor+Extension.m */; };
-		373413256658309F9053CE22BF62077E /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		5558B876B579BC1E79BD3D2B19148329 /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		5BE525FF6FA14B999ED2CCC0AA4FA0CF /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */; };
-		5EC43EBC0EFB22AC0EED3021E12A858D /* TYMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = C2395B3EA7A635CAF70E609377D39CB8 /* TYMaskView.m */; };
+		30D475DF57C0C682A723231E7BCA0D14 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 53484509FA4FAFF8201C994A2CF22916 /* FBSnapshotTestCasePlatform.m */; };
+		353E18A33E052593499C862F625C6485 /* UIColor+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 004C90126BAC9EC497FF9191A9697C42 /* UIColor+Extension.m */; };
+		373413256658309F9053CE22BF62077E /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 19AF229C9E4A4EBDAE7CF9DEAFC55990 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		5558B876B579BC1E79BD3D2B19148329 /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = 350D484DE567147514198FF4F44A6039 /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		5BE525FF6FA14B999ED2CCC0AA4FA0CF /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 28A33EBCAA03D796A97B3271680EC999 /* FBSnapshotTestCase-dummy.m */; };
+		5EC43EBC0EFB22AC0EED3021E12A858D /* TYMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 54ACC807BAB77209F13D6729B02375D8 /* TYMaskView.m */; };
 		60B42B7CBD0AD8DC4515D1360BF1A917 /* Pods-ZCMenuControl_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CAA6BA8AF1D049C7DBEFDFC4051114B /* Pods-ZCMenuControl_Tests-dummy.m */; };
 		623EBB0A1E291C0C348276177FB67A50 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
-		640CCE9C3A28AA3CA15510899F9140EE /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		67F1963AA7C9EDB78127AD5F566A4949 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		640CCE9C3A28AA3CA15510899F9140EE /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 3568B2AF59637A9CB6FC8C88AD6C128F /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		67F1963AA7C9EDB78127AD5F566A4949 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = CD4BAD47C495BA2E86F4DBC3C625DE17 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		68E3D83DC3B7806914118FBDD59E01BA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
-		69BE1253D8C5F69778486EA1E1390C2F /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A43CD342C6ACA42A36CE0693E64859 /* UIImage+Extension.m */; };
-		6E02E580D1B074D0910BB5AEB310120C /* ZCScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = DA8CAA082038FD202F592983197B2515 /* ZCScrollView.m */; };
-		72DA66B4CF3515BF0B92F343F5FB9FAD /* UIWindow+CurrentVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 256C7F373618FA3B480FAF81371CD0B0 /* UIWindow+CurrentVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		74339C58AC4E5631FB8C0E662668A796 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
-		776880DBB232E697BCEE3CB9033C5615 /* UIImage+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 661521408DBBE027B578BA5C8FA6AE18 /* UIImage+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7C67CBD15D9B5D0B7769B2F469478332 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */; };
+		69BE1253D8C5F69778486EA1E1390C2F /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 082210C50B9525C266A9CCFE671B5D3B /* UIImage+Extension.m */; };
+		6E02E580D1B074D0910BB5AEB310120C /* ZCScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DBB81C19E410F421468F7EE4891730 /* ZCScrollView.m */; };
+		72DA66B4CF3515BF0B92F343F5FB9FAD /* UIWindow+CurrentVC.h in Headers */ = {isa = PBXBuildFile; fileRef = C90143E7542F6ABBA841198BA9A14AE2 /* UIWindow+CurrentVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		74339C58AC4E5631FB8C0E662668A796 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B57C714ED08BB487AF05F6712EAAF13 /* UIApplication+StrictKeyWindow.m */; };
+		776880DBB232E697BCEE3CB9033C5615 /* UIImage+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 21A6870DF3F0A5AE9E4C6D52BFA5505E /* UIImage+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C67CBD15D9B5D0B7769B2F469478332 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = DF85A9D58B1DEDEE5CBCAF1A383BDB81 /* FBSnapshotTestCase.m */; };
 		875A310EAF4D0C136C3FFFF5E0335BE4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */; };
-		8813CC57AA004C712074767F81748519 /* UIWindow+CurrentVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A56B64DA8FFD916798DCF59FC33A4294 /* UIWindow+CurrentVC.m */; };
-		8AE19756F0126FE92AF625E36F3D70FE /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		8D5D2ECEB1FE0C59CB07F5F617B3FCA9 /* TYDefineConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 7910CAAE0C37000E38CBF173511B1ED5 /* TYDefineConst.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9ABDCECC0FEC2B6E89F076244F745E09 /* TYMaskView.h in Headers */ = {isa = PBXBuildFile; fileRef = 18C5D3E7B4EEECFB95C557604425B21C /* TYMaskView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9B0324CFBBE80CE9AC54AF3961083B54 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = DEA09A202407B837D9E108DCBD715048 /* UIView+Extension.m */; };
+		8813CC57AA004C712074767F81748519 /* UIWindow+CurrentVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC706ECE96C51A2075D3BA539FC63E6 /* UIWindow+CurrentVC.m */; };
+		8AE19756F0126FE92AF625E36F3D70FE /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 368B89714D76B4D178D0ACEA42C15FD0 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		8D5D2ECEB1FE0C59CB07F5F617B3FCA9 /* TYDefineConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 79DB826D8DC0073C06B7D19817C46CA2 /* TYDefineConst.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9ABDCECC0FEC2B6E89F076244F745E09 /* TYMaskView.h in Headers */ = {isa = PBXBuildFile; fileRef = ED9E4AEFC431ED2F160667F623446BBB /* TYMaskView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9B0324CFBBE80CE9AC54AF3961083B54 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 52E8AD126B0EF05824D1E614557E150A /* UIView+Extension.m */; };
 		9D3C5E2F56838937146191468A893244 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E658F388F01C72599CA75537950B6095 /* XCTest.framework */; };
-		A3C3E47AF404D1BA34A9A924C655B628 /* UIColor+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 2848E6C37EFFCEA1F6EB409610919C0E /* UIColor+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A8CA65B8E95AE650737900F1B97D3001 /* ZCMenuControl.m in Sources */ = {isa = PBXBuildFile; fileRef = ECCDC7E42735FD1B5F4E64C07167E90F /* ZCMenuControl.m */; };
-		AA154593A4E25F9B10E61213A425CA5A /* ZCMenuControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B690FD615496DFA2BF9929C3567D9CD9 /* ZCMenuControl-dummy.m */; };
-		B52281F9F4340D4FC8ABB2FEB1FEC08E /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */; };
-		C05C3F710E00F32169F8B612BBEE552F /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = A2233A724FCE120EB53BF44915E35582 /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C390C6005353FB986CB52F474CEF8588 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */; };
+		A3C3E47AF404D1BA34A9A924C655B628 /* UIColor+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 598F1DA7A5E36E3B4B2608E749CC6E09 /* UIColor+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A8CA65B8E95AE650737900F1B97D3001 /* ZCMenuControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 416326D49F0E9E3C35517514CAE02247 /* ZCMenuControl.m */; };
+		AA154593A4E25F9B10E61213A425CA5A /* ZCMenuControl-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 436046096E178E36A7E535D004F21A05 /* ZCMenuControl-dummy.m */; };
+		B52281F9F4340D4FC8ABB2FEB1FEC08E /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CD99C8C983A14CE12409885E5FD1EDA /* UIImage+Compare.m */; };
+		C05C3F710E00F32169F8B612BBEE552F /* UIView+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 1045E8ECBA2955DDADC5FCCC93BB8F2E /* UIView+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C390C6005353FB986CB52F474CEF8588 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACB1A769C87108EFDAE1495B43F0D237 /* FBSnapshotTestController.m */; };
 		C9F76407497DF0205D7460B36D22259F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */; };
 		CA092D60ED799C43A6BBC688D1233DAD /* Pods-ZCMenuControl_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 83D453973449EAF9010571411C9D2B0D /* Pods-ZCMenuControl_Example-dummy.m */; };
-		CA54C09A12400567AFFCB407EEB7E154 /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
-		CE7028AED0B1BC9F9CBA802A6F4805E9 /* ZCScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A6A22F00EE718A46AF60822A739EC92 /* ZCScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CA54C09A12400567AFFCB407EEB7E154 /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C19AB07288A053E30DBC8A137D89679 /* UIImage+Diff.m */; };
+		CE7028AED0B1BC9F9CBA802A6F4805E9 /* ZCScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 0432915D7A74CAEFF92B1EAE1C06B25A /* ZCScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D285AB8E85E2FB328B37672D65305F98 /* Pods-ZCMenuControl_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A2D75999DD3ACD6417CE2663F03C6D3 /* Pods-ZCMenuControl_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D65DC96D464613ECF464F2583B90ADA6 /* TYButton.h in Headers */ = {isa = PBXBuildFile; fileRef = C492940699852434AC65CB1B956684C3 /* TYButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D82E497488E8A70169E1EED3C987245E /* TYButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7404413B2102B5229EB1D3C8C2480ADD /* TYButton.m */; };
-		E9E2E917816383FB936F96E68E78704D /* ZCMenuControl.h in Headers */ = {isa = PBXBuildFile; fileRef = F652AA6704F29E7F6B1B78EB9CBC39B7 /* ZCMenuControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D65DC96D464613ECF464F2583B90ADA6 /* TYButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 05A965ADFF7A9A002DE00FAEBE643101 /* TYButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D82E497488E8A70169E1EED3C987245E /* TYButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EF95CA7666284E22540B0774D81AE5F /* TYButton.m */; };
+		E9E2E917816383FB936F96E68E78704D /* ZCMenuControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BA4FD562FA3D114212DC603A7CF3A47 /* ZCMenuControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F282A0A1C3E644217B86B7C1C2886D76 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */; };
-		F6407217BB24DF58288FE1F875983468 /* ZCMenuControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F4FF46757DDB4431FE8691351463B85 /* ZCMenuControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FF8307B7346F4D3BA13C11AECFE6EDD0 /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6407217BB24DF58288FE1F875983468 /* ZCMenuControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D53D28B0CF1A205B40CF120D019C00DC /* ZCMenuControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FF8307B7346F4D3BA13C11AECFE6EDD0 /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FFB2DC9953AD9A7C7FE64A178A77D3C /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2CB73320A15D3B2573C020861EC8F5DF /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 072E7052F5C94A6C1396FDCBC7D975B2;
-			remoteInfo = ZCMenuControl;
-		};
-		4ED259E875136A23A4413B264B2259C8 /* PBXContainerItemProxy */ = {
+		5E8A74678CC1CA77F82DB9C9DA022B80 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 98A98149697C80CEF8D5772791E92E66;
 			remoteInfo = FBSnapshotTestCase;
 		};
-		5CE3A6347517BD04BAE50889185E814B /* PBXContainerItemProxy */ = {
+		6A01DD582AEFE20DB4183F32E04156E2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 072E7052F5C94A6C1396FDCBC7D975B2;
+			remoteInfo = ZCMenuControl;
+		};
+		FA0313750B9A64731E0EF7EEDE682356 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -82,83 +82,80 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		004C90126BAC9EC497FF9191A9697C42 /* UIColor+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Extension.m"; path = "ZCMenuControl/Classes/UIColor+Extension.m"; sourceTree = "<group>"; };
+		0432915D7A74CAEFF92B1EAE1C06B25A /* ZCScrollView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZCScrollView.h; path = ZCMenuControl/Classes/ZCScrollView.h; sourceTree = "<group>"; };
+		05A965ADFF7A9A002DE00FAEBE643101 /* TYButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYButton.h; path = ZCMenuControl/Classes/TYButton.h; sourceTree = "<group>"; };
 		07F33F43952BE4F5CACE8E2599CA7899 /* Pods-ZCMenuControl_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZCMenuControl_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		08B3DE812DD70643AAB47645854A762D /* ZCMenuControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZCMenuControl.debug.xcconfig; sourceTree = "<group>"; };
+		082210C50B9525C266A9CCFE671B5D3B /* UIImage+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Extension.m"; path = "ZCMenuControl/Classes/UIImage+Extension.m"; sourceTree = "<group>"; };
 		0CAA6BA8AF1D049C7DBEFDFC4051114B /* Pods-ZCMenuControl_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZCMenuControl_Tests-dummy.m"; sourceTree = "<group>"; };
-		0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
+		1045E8ECBA2955DDADC5FCCC93BB8F2E /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "ZCMenuControl/Classes/UIView+Extension.h"; sourceTree = "<group>"; };
 		10B53139A68EFFDDE32AAD7831AF4302 /* Pods-ZCMenuControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZCMenuControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		116E47ED1BE367940D44C632AE479516 /* Pods-ZCMenuControl_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZCMenuControl_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		15EFAF732A6AFEA17089D16B53568EE7 /* Pods-ZCMenuControl_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZCMenuControl_Example.modulemap"; sourceTree = "<group>"; };
-		17C2A479E882413D15412BCFDBBA376B /* ZCMenuControl-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZCMenuControl-Info.plist"; sourceTree = "<group>"; };
-		18C5D3E7B4EEECFB95C557604425B21C /* TYMaskView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYMaskView.h; path = ZCMenuControl/Classes/TYMaskView.h; sourceTree = "<group>"; };
-		1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		194226DC9618FE0D178D70F8BA084D6B /* ZCMenuControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZCMenuControl.release.xcconfig; sourceTree = "<group>"; };
+		19AF229C9E4A4EBDAE7CF9DEAFC55990 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
+		1B57C714ED08BB487AF05F6712EAAF13 /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		1DA24A38BA9EE106B59E3D4C8DD1CE0E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		1E689C7DAF1C0D0523CAFC90C42A231B /* UIColor+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Extension.m"; path = "ZCMenuControl/Classes/UIColor+Extension.m"; sourceTree = "<group>"; };
-		235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
-		256C7F373618FA3B480FAF81371CD0B0 /* UIWindow+CurrentVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWindow+CurrentVC.h"; path = "ZCMenuControl/Classes/UIWindow+CurrentVC.h"; sourceTree = "<group>"; };
-		277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
-		284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
-		2848E6C37EFFCEA1F6EB409610919C0E /* UIColor+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Extension.h"; path = "ZCMenuControl/Classes/UIColor+Extension.h"; sourceTree = "<group>"; };
-		31DBBDB59055EB5D1D59A105CBDBD5BE /* ZCMenuControl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZCMenuControl.release.xcconfig; sourceTree = "<group>"; };
+		1FFB2DC9953AD9A7C7FE64A178A77D3C /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
+		21A6870DF3F0A5AE9E4C6D52BFA5505E /* UIImage+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Extension.h"; path = "ZCMenuControl/Classes/UIImage+Extension.h"; sourceTree = "<group>"; };
+		28A33EBCAA03D796A97B3271680EC999 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		3280BB5E7B57C31D41117A74F76E9DF3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		34A43CD342C6ACA42A36CE0693E64859 /* UIImage+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Extension.m"; path = "ZCMenuControl/Classes/UIImage+Extension.m"; sourceTree = "<group>"; };
+		350D484DE567147514198FF4F44A6039 /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
+		3568B2AF59637A9CB6FC8C88AD6C128F /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
+		368B89714D76B4D178D0ACEA42C15FD0 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
+		3715375D208812233C165B7E3B8F8E77 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		38B643556C2E3E6D5ED5CDAC718B369C /* Pods-ZCMenuControl_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZCMenuControl_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
-		4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
-		4A6A22F00EE718A46AF60822A739EC92 /* ZCScrollView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZCScrollView.h; path = ZCMenuControl/Classes/ZCScrollView.h; sourceTree = "<group>"; };
+		416326D49F0E9E3C35517514CAE02247 /* ZCMenuControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZCMenuControl.m; path = ZCMenuControl/Classes/ZCMenuControl.m; sourceTree = "<group>"; };
+		436046096E178E36A7E535D004F21A05 /* ZCMenuControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZCMenuControl-dummy.m"; sourceTree = "<group>"; };
+		4BA4FD562FA3D114212DC603A7CF3A47 /* ZCMenuControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZCMenuControl.h; path = ZCMenuControl/Classes/ZCMenuControl.h; sourceTree = "<group>"; };
 		4C6316AD8B7AEB8EA73AB1521A6A610E /* ZCMenuControl */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZCMenuControl; path = ZCMenuControl.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
-		4F4FF46757DDB4431FE8691351463B85 /* ZCMenuControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZCMenuControl-umbrella.h"; sourceTree = "<group>"; };
+		506F560C310836F289E42906BD835974 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		52E8AD126B0EF05824D1E614557E150A /* UIView+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "ZCMenuControl/Classes/UIView+Extension.m"; sourceTree = "<group>"; };
+		53484509FA4FAFF8201C994A2CF22916 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		54ACC807BAB77209F13D6729B02375D8 /* TYMaskView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYMaskView.m; path = ZCMenuControl/Classes/TYMaskView.m; sourceTree = "<group>"; };
 		57221B54D014471C3D3E1925EFC917C8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		598F1DA7A5E36E3B4B2608E749CC6E09 /* UIColor+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Extension.h"; path = "ZCMenuControl/Classes/UIColor+Extension.h"; sourceTree = "<group>"; };
 		5C4F31330DFA99D699E4BDC8C3573D73 /* FBSnapshotTestCase */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
-		661521408DBBE027B578BA5C8FA6AE18 /* UIImage+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Extension.h"; path = "ZCMenuControl/Classes/UIImage+Extension.h"; sourceTree = "<group>"; };
-		6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		6F7E1D29C4F160F511E614D2C32F60DE /* ZCMenuControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZCMenuControl-prefix.pch"; sourceTree = "<group>"; };
+		5CC6A8FC71E732A307E345B3510C843B /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
+		63DBB81C19E410F421468F7EE4891730 /* ZCScrollView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZCScrollView.m; path = ZCMenuControl/Classes/ZCScrollView.m; sourceTree = "<group>"; };
+		68A91FD983C433435C00799E2204959B /* ZCMenuControl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZCMenuControl.debug.xcconfig; sourceTree = "<group>"; };
 		6FDD35210B213BC2FDAF7C709A486FF9 /* Pods-ZCMenuControl_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZCMenuControl_Example-umbrella.h"; sourceTree = "<group>"; };
-		71FAA353D23FFF19CC9FC8CE0EE7222C /* ZCMenuControl.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ZCMenuControl.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		73BABDBB0BB3ECAA76FA61C3FF7DDB81 /* Pods-ZCMenuControl_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZCMenuControl_Example.release.xcconfig"; sourceTree = "<group>"; };
 		73D23F79B2938DB65658902F57CF2749 /* Pods-ZCMenuControl_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZCMenuControl_Example-frameworks.sh"; sourceTree = "<group>"; };
-		7404413B2102B5229EB1D3C8C2480ADD /* TYButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYButton.m; path = ZCMenuControl/Classes/TYButton.m; sourceTree = "<group>"; };
-		7910CAAE0C37000E38CBF173511B1ED5 /* TYDefineConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYDefineConst.h; path = ZCMenuControl/Classes/TYDefineConst.h; sourceTree = "<group>"; };
-		7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
-		813C0309153C709F32C308CB7359441E /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ZCMenuControl/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		79DB826D8DC0073C06B7D19817C46CA2 /* TYDefineConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYDefineConst.h; path = ZCMenuControl/Classes/TYDefineConst.h; sourceTree = "<group>"; };
+		7CD99C8C983A14CE12409885E5FD1EDA /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
+		7EF95CA7666284E22540B0774D81AE5F /* TYButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYButton.m; path = ZCMenuControl/Classes/TYButton.m; sourceTree = "<group>"; };
 		83D453973449EAF9010571411C9D2B0D /* Pods-ZCMenuControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZCMenuControl_Example-dummy.m"; sourceTree = "<group>"; };
 		86BD8E67FDC26A133674D30C9983121C /* Pods-ZCMenuControl_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZCMenuControl_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
-		8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
-		9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
-		96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
+		8C19AB07288A053E30DBC8A137D89679 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		9A2D75999DD3ACD6417CE2663F03C6D3 /* Pods-ZCMenuControl_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZCMenuControl_Tests-umbrella.h"; sourceTree = "<group>"; };
-		9D2E66C9625B2C01D3FD52F2810C9586 /* ZCMenuControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZCMenuControl.modulemap; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A2233A724FCE120EB53BF44915E35582 /* UIView+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "ZCMenuControl/Classes/UIView+Extension.h"; sourceTree = "<group>"; };
-		A56B64DA8FFD916798DCF59FC33A4294 /* UIWindow+CurrentVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWindow+CurrentVC.m"; path = "ZCMenuControl/Classes/UIWindow+CurrentVC.m"; sourceTree = "<group>"; };
-		A8204B0677E7F28FBC8955A7B9570E3A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
-		B690FD615496DFA2BF9929C3567D9CD9 /* ZCMenuControl-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZCMenuControl-dummy.m"; sourceTree = "<group>"; };
-		B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FBSnapshotTestCase-Info.plist"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9DC706ECE96C51A2075D3BA539FC63E6 /* UIWindow+CurrentVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWindow+CurrentVC.m"; path = "ZCMenuControl/Classes/UIWindow+CurrentVC.m"; sourceTree = "<group>"; };
+		A0A61FE40770DE990F0987966F4C2FDD /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ZCMenuControl/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		ACB1A769C87108EFDAE1495B43F0D237 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
+		B580E8909667F3B75F9685EA74A9B2B0 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		B717E949EEB3799DA83AE03F4B5DA0C3 /* Pods-ZCMenuControl_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ZCMenuControl_Example"; path = Pods_ZCMenuControl_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B942597C789F6A7FAAA59F7AA8763639 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		C2395B3EA7A635CAF70E609377D39CB8 /* TYMaskView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TYMaskView.m; path = ZCMenuControl/Classes/TYMaskView.m; sourceTree = "<group>"; };
+		BE2CB972E149A72C1CA9BC67ED388AE2 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
+		BEA15C2290F93704879EF1697A352096 /* FBSnapshotTestCase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.release.xcconfig; sourceTree = "<group>"; };
 		C32D00EDA9D8BA1DB4375148119892E5 /* Pods-ZCMenuControl_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ZCMenuControl_Tests"; path = Pods_ZCMenuControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C492940699852434AC65CB1B956684C3 /* TYButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYButton.h; path = ZCMenuControl/Classes/TYButton.h; sourceTree = "<group>"; };
-		CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
-		D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
+		C47E50D43E93E932B8F9EA59FAD4256E /* FBSnapshotTestCase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.debug.xcconfig; sourceTree = "<group>"; };
+		C90143E7542F6ABBA841198BA9A14AE2 /* UIWindow+CurrentVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWindow+CurrentVC.h"; path = "ZCMenuControl/Classes/UIWindow+CurrentVC.h"; sourceTree = "<group>"; };
+		CD4BAD47C495BA2E86F4DBC3C625DE17 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		D34F58ADE30057B022BC6D2412A5C863 /* Pods-ZCMenuControl_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZCMenuControl_Tests.modulemap"; sourceTree = "<group>"; };
+		D53D28B0CF1A205B40CF120D019C00DC /* ZCMenuControl-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZCMenuControl-umbrella.h"; sourceTree = "<group>"; };
 		D55F2404C06DEE4C42A9AFEA9FB4F545 /* Pods-ZCMenuControl_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZCMenuControl_Example-Info.plist"; sourceTree = "<group>"; };
-		D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
-		DA8CAA082038FD202F592983197B2515 /* ZCScrollView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZCScrollView.m; path = ZCMenuControl/Classes/ZCScrollView.m; sourceTree = "<group>"; };
+		D793402B2B18543F3237CBD05CC696D7 /* ZCMenuControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZCMenuControl-prefix.pch"; sourceTree = "<group>"; };
 		DB4C9FD76D9147104A6EE73EF1C040B9 /* Pods-ZCMenuControl_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZCMenuControl_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		DEA09A202407B837D9E108DCBD715048 /* UIView+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "ZCMenuControl/Classes/UIView+Extension.m"; sourceTree = "<group>"; };
+		DC25F098CC48F036443B691141E984AA /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		DF85A9D58B1DEDEE5CBCAF1A383BDB81 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
+		DFF64AC558C69CDE05E08512433CC943 /* ZCMenuControl.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZCMenuControl.modulemap; sourceTree = "<group>"; };
+		E0A54C707384E2C0CD4277F1EF15BA1E /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
 		E110888D7AD3F2D68DE06FC029517CC4 /* Pods-ZCMenuControl_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZCMenuControl_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		E658F388F01C72599CA75537950B6095 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		E90454DD8098B75A7DE6D71C973E54B4 /* Pods-ZCMenuControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZCMenuControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		E945602FAADFD79327DD05810720D236 /* ZCMenuControl-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZCMenuControl-Info.plist"; sourceTree = "<group>"; };
 		EAE6F02CC1062216754340BFE9F70A71 /* Pods-ZCMenuControl_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZCMenuControl_Tests-Info.plist"; sourceTree = "<group>"; };
-		ECCDC7E42735FD1B5F4E64C07167E90F /* ZCMenuControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ZCMenuControl.m; path = ZCMenuControl/Classes/ZCMenuControl.m; sourceTree = "<group>"; };
-		F652AA6704F29E7F6B1B78EB9CBC39B7 /* ZCMenuControl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ZCMenuControl.h; path = ZCMenuControl/Classes/ZCMenuControl.h; sourceTree = "<group>"; };
-		FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
+		ED9E4AEFC431ED2F160667F623446BBB /* TYMaskView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TYMaskView.h; path = ZCMenuControl/Classes/TYMaskView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -200,24 +197,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		062D3777303DC1365E870A931582BA7A /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				88333A4BCE2E5D74C12A8388CF0B5BE1 /* ZCMenuControl */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		0977292B764B2E5B0145E2F0A1755C79 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A8204B0677E7F28FBC8955A7B9570E3A /* LICENSE */,
-				B942597C789F6A7FAAA59F7AA8763639 /* README.md */,
-				71FAA353D23FFF19CC9FC8CE0EE7222C /* ZCMenuControl.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		1CAAC9C72E1E4D2263F6C98D3E6FAA33 /* Pods-ZCMenuControl_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -246,21 +225,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2E4E2E53610510B5C13C352EB440CCD4 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				9D2E66C9625B2C01D3FD52F2810C9586 /* ZCMenuControl.modulemap */,
-				B690FD615496DFA2BF9929C3567D9CD9 /* ZCMenuControl-dummy.m */,
-				17C2A479E882413D15412BCFDBBA376B /* ZCMenuControl-Info.plist */,
-				6F7E1D29C4F160F511E614D2C32F60DE /* ZCMenuControl-prefix.pch */,
-				4F4FF46757DDB4431FE8691351463B85 /* ZCMenuControl-umbrella.h */,
-				08B3DE812DD70643AAB47645854A762D /* ZCMenuControl.debug.xcconfig */,
-				31DBBDB59055EB5D1D59A105CBDBD5BE /* ZCMenuControl.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/ZCMenuControl";
-			sourceTree = "<group>";
-		};
 		3D15EB8CF2D2BBA438457609403B4ECB /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -268,27 +232,6 @@
 				6865655C654D31E610B4ABE708BC5252 /* Pods-ZCMenuControl_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		4BA2479549DD918290454B1CDCD0B92B /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				FEE661E58CA6655B39AA49AA4C021C33 /* FBSnapshotTestCase.h */,
-				277B6BE10C665F515606A22FD60C6DCC /* FBSnapshotTestCase.m */,
-				88B1DEEBF6316A84D7413645212492FF /* FBSnapshotTestCasePlatform.h */,
-				6ABB3EB3CCC5BCA82F40FE8DC87BB778 /* FBSnapshotTestCasePlatform.m */,
-				AE9FF9459FBCDC4AF88FB6B5A4CC1439 /* FBSnapshotTestController.h */,
-				7E1B7EA746BF6557FD565BAE12AF9198 /* FBSnapshotTestController.m */,
-				99A67367E018411D614EC8536A8A1C5B /* UIApplication+StrictKeyWindow.h */,
-				0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */,
-				656116C8FA5458F45D4707110C9530EC /* UIImage+Compare.h */,
-				235A78CFFA6D8B8D86CACD733531CB13 /* UIImage+Compare.m */,
-				96187BF3038121CC146335E9FF0B0AFF /* UIImage+Diff.h */,
-				4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */,
-				284833D18C244D2B42966B6EE425AA59 /* UIImage+Snapshot.h */,
-				D872A3EE224412D4057C234FBC629F9C /* UIImage+Snapshot.m */,
-			);
-			name = Core;
 			sourceTree = "<group>";
 		};
 		6865655C654D31E610B4ABE708BC5252 /* Pods-ZCMenuControl_Tests */ = {
@@ -308,55 +251,34 @@
 			path = "Target Support Files/Pods-ZCMenuControl_Tests";
 			sourceTree = "<group>";
 		};
-		88333A4BCE2E5D74C12A8388CF0B5BE1 /* ZCMenuControl */ = {
+		81A6AAAD65CD3EC5B03299C6F298FC4F /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				813C0309153C709F32C308CB7359441E /* ReplaceMe.m */,
-				C492940699852434AC65CB1B956684C3 /* TYButton.h */,
-				7404413B2102B5229EB1D3C8C2480ADD /* TYButton.m */,
-				7910CAAE0C37000E38CBF173511B1ED5 /* TYDefineConst.h */,
-				18C5D3E7B4EEECFB95C557604425B21C /* TYMaskView.h */,
-				C2395B3EA7A635CAF70E609377D39CB8 /* TYMaskView.m */,
-				2848E6C37EFFCEA1F6EB409610919C0E /* UIColor+Extension.h */,
-				1E689C7DAF1C0D0523CAFC90C42A231B /* UIColor+Extension.m */,
-				661521408DBBE027B578BA5C8FA6AE18 /* UIImage+Extension.h */,
-				34A43CD342C6ACA42A36CE0693E64859 /* UIImage+Extension.m */,
-				A2233A724FCE120EB53BF44915E35582 /* UIView+Extension.h */,
-				DEA09A202407B837D9E108DCBD715048 /* UIView+Extension.m */,
-				256C7F373618FA3B480FAF81371CD0B0 /* UIWindow+CurrentVC.h */,
-				A56B64DA8FFD916798DCF59FC33A4294 /* UIWindow+CurrentVC.m */,
-				F652AA6704F29E7F6B1B78EB9CBC39B7 /* ZCMenuControl.h */,
-				ECCDC7E42735FD1B5F4E64C07167E90F /* ZCMenuControl.m */,
-				4A6A22F00EE718A46AF60822A739EC92 /* ZCScrollView.h */,
-				DA8CAA082038FD202F592983197B2515 /* ZCScrollView.m */,
-				0977292B764B2E5B0145E2F0A1755C79 /* Pod */,
-				2E4E2E53610510B5C13C352EB440CCD4 /* Support Files */,
-			);
-			name = ZCMenuControl;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */ = {
-			isa = PBXGroup;
-			children = (
-				3F0D66CF296ABBC57EC4D0452397E235 /* SwiftSupport.swift */,
-			);
-			name = SwiftSupport;
-			sourceTree = "<group>";
-		};
-		B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				CBFF6C5FD9C3A84274A9314D3E940B6E /* FBSnapshotTestCase.modulemap */,
-				1ADA6E655DC84D06359BD0ED5E36C783 /* FBSnapshotTestCase-dummy.m */,
-				B7103CA00AED20722C5B69CA5B4F6938 /* FBSnapshotTestCase-Info.plist */,
-				D08CEBB9BDD9EF7A662ECFC0305C169E /* FBSnapshotTestCase-prefix.pch */,
-				8E5923010B02074CAA9AAF6EA02D66AA /* FBSnapshotTestCase-umbrella.h */,
-				9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */,
-				4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */,
+				DC25F098CC48F036443B691141E984AA /* FBSnapshotTestCase.modulemap */,
+				28A33EBCAA03D796A97B3271680EC999 /* FBSnapshotTestCase-dummy.m */,
+				5CC6A8FC71E732A307E345B3510C843B /* FBSnapshotTestCase-Info.plist */,
+				BE2CB972E149A72C1CA9BC67ED388AE2 /* FBSnapshotTestCase-prefix.pch */,
+				B580E8909667F3B75F9685EA74A9B2B0 /* FBSnapshotTestCase-umbrella.h */,
+				C47E50D43E93E932B8F9EA59FAD4256E /* FBSnapshotTestCase.debug.xcconfig */,
+				BEA15C2290F93704879EF1697A352096 /* FBSnapshotTestCase.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/FBSnapshotTestCase";
+			sourceTree = "<group>";
+		};
+		9C5ED8470FC15490C847059C8DCB4000 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DFF64AC558C69CDE05E08512433CC943 /* ZCMenuControl.modulemap */,
+				436046096E178E36A7E535D004F21A05 /* ZCMenuControl-dummy.m */,
+				E945602FAADFD79327DD05810720D236 /* ZCMenuControl-Info.plist */,
+				D793402B2B18543F3237CBD05CC696D7 /* ZCMenuControl-prefix.pch */,
+				D53D28B0CF1A205B40CF120D019C00DC /* ZCMenuControl-umbrella.h */,
+				68A91FD983C433435C00799E2204959B /* ZCMenuControl.debug.xcconfig */,
+				194226DC9618FE0D178D70F8BA084D6B /* ZCMenuControl.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/ZCMenuControl";
 			sourceTree = "<group>";
 		};
 		BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */ = {
@@ -367,34 +289,91 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */ = {
+		C425BF5C76DE898711DE7A0500F5A261 /* SwiftSupport */ = {
 			isa = PBXGroup;
 			children = (
-				4BA2479549DD918290454B1CDCD0B92B /* Core */,
-				B69B2ECE2D2C9A3924A9231138CE0BBC /* Support Files */,
-				906402ECC4C6C5EB58DD365FD2C64E92 /* SwiftSupport */,
+				3715375D208812233C165B7E3B8F8E77 /* SwiftSupport.swift */,
 			);
-			path = FBSnapshotTestCase;
+			name = SwiftSupport;
+			sourceTree = "<group>";
+		};
+		CCAFF650D043B48EC92F83402516AB45 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DCE06775D373F1D1B000ECF029B56B92 /* FBSnapshotTestCase */,
+				ECB37DB26DD8256DB8ADEA8351278F74 /* ZCMenuControl */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				062D3777303DC1365E870A931582BA7A /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
-				E81A37DBDE41E671312C56736544E2FA /* Pods */,
+				CCAFF650D043B48EC92F83402516AB45 /* Pods */,
 				1DB9EAE6119E04D0DF885201E81875FC /* Products */,
 				3D15EB8CF2D2BBA438457609403B4ECB /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		E81A37DBDE41E671312C56736544E2FA /* Pods */ = {
+		DCE06775D373F1D1B000ECF029B56B92 /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
-				BD2D60DE56CBB8C87BA07E0C1CCD0592 /* FBSnapshotTestCase */,
+				F3D63E78ECB95CEFBB484453C9116ED1 /* Core */,
+				81A6AAAD65CD3EC5B03299C6F298FC4F /* Support Files */,
+				C425BF5C76DE898711DE7A0500F5A261 /* SwiftSupport */,
 			);
-			name = Pods;
+			name = FBSnapshotTestCase;
+			path = FBSnapshotTestCase;
+			sourceTree = "<group>";
+		};
+		ECB37DB26DD8256DB8ADEA8351278F74 /* ZCMenuControl */ = {
+			isa = PBXGroup;
+			children = (
+				A0A61FE40770DE990F0987966F4C2FDD /* ReplaceMe.m */,
+				05A965ADFF7A9A002DE00FAEBE643101 /* TYButton.h */,
+				7EF95CA7666284E22540B0774D81AE5F /* TYButton.m */,
+				79DB826D8DC0073C06B7D19817C46CA2 /* TYDefineConst.h */,
+				ED9E4AEFC431ED2F160667F623446BBB /* TYMaskView.h */,
+				54ACC807BAB77209F13D6729B02375D8 /* TYMaskView.m */,
+				598F1DA7A5E36E3B4B2608E749CC6E09 /* UIColor+Extension.h */,
+				004C90126BAC9EC497FF9191A9697C42 /* UIColor+Extension.m */,
+				21A6870DF3F0A5AE9E4C6D52BFA5505E /* UIImage+Extension.h */,
+				082210C50B9525C266A9CCFE671B5D3B /* UIImage+Extension.m */,
+				1045E8ECBA2955DDADC5FCCC93BB8F2E /* UIView+Extension.h */,
+				52E8AD126B0EF05824D1E614557E150A /* UIView+Extension.m */,
+				C90143E7542F6ABBA841198BA9A14AE2 /* UIWindow+CurrentVC.h */,
+				9DC706ECE96C51A2075D3BA539FC63E6 /* UIWindow+CurrentVC.m */,
+				4BA4FD562FA3D114212DC603A7CF3A47 /* ZCMenuControl.h */,
+				416326D49F0E9E3C35517514CAE02247 /* ZCMenuControl.m */,
+				0432915D7A74CAEFF92B1EAE1C06B25A /* ZCScrollView.h */,
+				63DBB81C19E410F421468F7EE4891730 /* ZCScrollView.m */,
+				9C5ED8470FC15490C847059C8DCB4000 /* Support Files */,
+			);
+			name = ZCMenuControl;
+			path = ZCMenuControl;
+			sourceTree = "<group>";
+		};
+		F3D63E78ECB95CEFBB484453C9116ED1 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				1FFB2DC9953AD9A7C7FE64A178A77D3C /* FBSnapshotTestCase.h */,
+				DF85A9D58B1DEDEE5CBCAF1A383BDB81 /* FBSnapshotTestCase.m */,
+				3568B2AF59637A9CB6FC8C88AD6C128F /* FBSnapshotTestCasePlatform.h */,
+				53484509FA4FAFF8201C994A2CF22916 /* FBSnapshotTestCasePlatform.m */,
+				506F560C310836F289E42906BD835974 /* FBSnapshotTestController.h */,
+				ACB1A769C87108EFDAE1495B43F0D237 /* FBSnapshotTestController.m */,
+				350D484DE567147514198FF4F44A6039 /* UIApplication+StrictKeyWindow.h */,
+				1B57C714ED08BB487AF05F6712EAAF13 /* UIApplication+StrictKeyWindow.m */,
+				368B89714D76B4D178D0ACEA42C15FD0 /* UIImage+Compare.h */,
+				7CD99C8C983A14CE12409885E5FD1EDA /* UIImage+Compare.m */,
+				CD4BAD47C495BA2E86F4DBC3C625DE17 /* UIImage+Diff.h */,
+				8C19AB07288A053E30DBC8A137D89679 /* UIImage+Diff.m */,
+				19AF229C9E4A4EBDAE7CF9DEAFC55990 /* UIImage+Snapshot.h */,
+				E0A54C707384E2C0CD4277F1EF15BA1E /* UIImage+Snapshot.m */,
+			);
+			name = Core;
 			sourceTree = "<group>";
 		};
 		FB2668559AE577E6E8078C0C291AD417 /* iOS */ = {
@@ -492,7 +471,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				1E93ABBBCBADA5D3950327FA323B0DBF /* PBXTargetDependency */,
+				6A7CA43AF78EA6A35D34F9662EDF0079 /* PBXTargetDependency */,
 			);
 			name = "Pods-ZCMenuControl_Example";
 			productName = Pods_ZCMenuControl_Example;
@@ -529,8 +508,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				A1263593BF564A6AA78DCACF788E31A3 /* PBXTargetDependency */,
-				1F582553407118D8F2F8C7E6803FE9FC /* PBXTargetDependency */,
+				446E3E63C7206C5744A9DFDCA1FE8F55 /* PBXTargetDependency */,
+				59D381064AA8BB459635C7D67F35D613 /* PBXTargetDependency */,
 			);
 			name = "Pods-ZCMenuControl_Tests";
 			productName = Pods_ZCMenuControl_Tests;
@@ -651,30 +630,30 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1E93ABBBCBADA5D3950327FA323B0DBF /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = ZCMenuControl;
-			target = 072E7052F5C94A6C1396FDCBC7D975B2 /* ZCMenuControl */;
-			targetProxy = 2CB73320A15D3B2573C020861EC8F5DF /* PBXContainerItemProxy */;
-		};
-		1F582553407118D8F2F8C7E6803FE9FC /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-ZCMenuControl_Example";
-			target = 7BCCDD581621AB2DE6E8A83690C7D3A6 /* Pods-ZCMenuControl_Example */;
-			targetProxy = 5CE3A6347517BD04BAE50889185E814B /* PBXContainerItemProxy */;
-		};
-		A1263593BF564A6AA78DCACF788E31A3 /* PBXTargetDependency */ = {
+		446E3E63C7206C5744A9DFDCA1FE8F55 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FBSnapshotTestCase;
 			target = 98A98149697C80CEF8D5772791E92E66 /* FBSnapshotTestCase */;
-			targetProxy = 4ED259E875136A23A4413B264B2259C8 /* PBXContainerItemProxy */;
+			targetProxy = 5E8A74678CC1CA77F82DB9C9DA022B80 /* PBXContainerItemProxy */;
+		};
+		59D381064AA8BB459635C7D67F35D613 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-ZCMenuControl_Example";
+			target = 7BCCDD581621AB2DE6E8A83690C7D3A6 /* Pods-ZCMenuControl_Example */;
+			targetProxy = FA0313750B9A64731E0EF7EEDE682356 /* PBXContainerItemProxy */;
+		};
+		6A7CA43AF78EA6A35D34F9662EDF0079 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ZCMenuControl;
+			target = 072E7052F5C94A6C1396FDCBC7D975B2 /* ZCMenuControl */;
+			targetProxy = 6A01DD582AEFE20DB4183F32E04156E2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		0CF977E736A9F0297ED689DCD07C3E1C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C6513B09838318BD763CFD5390D1DE0 /* FBSnapshotTestCase.release.xcconfig */;
+			baseConfigurationReference = BEA15C2290F93704879EF1697A352096 /* FBSnapshotTestCase.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -705,7 +684,7 @@
 		};
 		2CA62F153B83A58430C5637F9DA39907 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 31DBBDB59055EB5D1D59A105CBDBD5BE /* ZCMenuControl.release.xcconfig */;
+			baseConfigurationReference = 194226DC9618FE0D178D70F8BA084D6B /* ZCMenuControl.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -803,7 +782,7 @@
 		};
 		66441ABD196C850941BA8A06DC3B6A88 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 08B3DE812DD70643AAB47645854A762D /* ZCMenuControl.debug.xcconfig */;
+			baseConfigurationReference = 68A91FD983C433435C00799E2204959B /* ZCMenuControl.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -921,7 +900,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -929,7 +909,7 @@
 		};
 		842C60C4F1EBC85F9C8FF97D39D120FF /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9468E867498BBAF36F9AFFE4845F8B09 /* FBSnapshotTestCase.debug.xcconfig */;
+			baseConfigurationReference = C47E50D43E93E932B8F9EA59FAD4256E /* FBSnapshotTestCase.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";

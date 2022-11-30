@@ -1,10 +1,10 @@
 use_frameworks!
 
 platform :ios, '10.0'
+source 'https://github.com/CocoaPods/Specs.git'
 
 target 'ZCMenuControl_Example' do
-  pod 'ZCMenuControl', :git =>"https://github.com/cbhy1988love/ZCMenuControl.git"
-
+  pod 'ZCMenuControl'
   target 'ZCMenuControl_Tests' do
     inherit! :search_paths
 

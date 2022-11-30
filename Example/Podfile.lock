@@ -4,24 +4,22 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - ZCMenuControl (0.1.0)
+  - ZCMenuControl (0.1.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
-  - ZCMenuControl (from `../`)
+  - ZCMenuControl
 
 SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ZCMenuControl
   trunk:
     - FBSnapshotTestCase
 
-EXTERNAL SOURCES:
-  ZCMenuControl:
-    :path: "../"
-
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  ZCMenuControl: 6450a39f3fb9834114a9342006f3f2b6499b61e1
+  ZCMenuControl: 2a2cc6f6256eb02bdc7ea22a9a79fd638c10f758
 
-PODFILE CHECKSUM: c0388b2910914c4638ccc13ed885eb524c57edd4
+PODFILE CHECKSUM: c5e60e7e393276b29ff997095020a47c2f9a26df
 
 COCOAPODS: 1.11.3
